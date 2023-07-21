@@ -1,0 +1,59 @@
+\documentclass[uplatex, a4paper, 12pt, openany, oneside]{jsbook}
+
+\usepackage[dvipdfmx]{graphicx}
+\usepackage[dvipdfmx]{color}
+\usepackage[dvipdfmx, bookmarks=true, setpagesize=false]{hyperref}
+\usepackage{pxjahyper}
+
+\usepackage{thesis}
+\usepackage{here}
+\usepackage{url}
+\usepackage{subcaption}
+\captionsetup[figure]{justification=centering}
+
+\thesis{授業ノート}
+\title{
+  \centering
+    \scalebox{1.0}{インテリジェントロボットモーション}\\
+    \scalebox{0.8}{(軌道計画)}\\
+    \vspace{-0.3zh}
+    \scalebox{0.7}{Intelligent robot motion}\\
+    \scalebox{0.7}{(Trajectory plan)}\\
+    \vspace{-5.0zh}
+}
+\setlength{\textwidth}{\fullwidth}
+\setlength{\evensidemargin}{\oddsidemargin}
+
+\date{\today}
+\vspace{-15.0zh}
+\teacher{}
+% \vspace{-15.0zh}
+\organization{千葉工業大学 先進工学研究科 未来ロボティクス専攻}
+\author{23S1022 髙橋祐樹}
+\vspace{-15zh}
+
+\renewcommand{\baselinestretch}{1.2}
+\begin{document}
+
+%% Front Matter
+\frontmatter{}
+%
+\include{frontmatter/main}
+%
+%% Main Matter
+\mainmatter{}
+%
+\include{introduction/main}
+%
+\include{technology/main}
+%
+\include{old-method/main}
+%
+% \include{conclusion/main}
+%% Back Matter
+\backmatter{}
+%
+\include{backmatter/main}
+%
+
+\end{document}

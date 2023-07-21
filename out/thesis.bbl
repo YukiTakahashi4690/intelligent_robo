@@ -1,0 +1,57 @@
+\begin{thebibliography}{1}
+
+\bibitem{bojaski}
+Mariusz~Bojarski et~al.
+\newblock ""end to end learning for self-driving cars."".
+\newblock arXiv: 1604.07316(2016).
+
+\bibitem{okada-si2020}
+岡田眞也, 清岡優祐, 上田隆一, 林原靖男.
+\newblock
+  "視覚と行動のend-to-end学習により経路追従行動をオンラインで模倣する手法の提案''.
+\newblock 計測自動制御学会 SI 部門講演会 SICE-SI2020 予稿集,
+  pp.1147-1152(2020).
+
+\bibitem{kiyooka-si}
+清岡優祐, 岡田眞也, 岩井一輝, 上田隆一, 林原靖男.
+\newblock
+  "視覚と行動のend-to-end学習により経路追従行動をオンラインで模倣する手法の提案-“データセットと生成された経路追従行動の解析''.
+\newblock 計測自動制御学会 SI 部門講演会 SICE-SI2021 予稿集,
+  pp.1072-1075(2021).
+
+\bibitem{mnist}
+The mnist database of handwritten digits.
+\newblock \\\url{http://yann.lecun.com/exdb/mnist/}.
+\newblock \\最終閲覧日 \today.
+
+\bibitem{okada-si2021}
+岡田眞也, 清岡優祐, 春山健太, 上田隆一, 林原靖男.
+\newblock
+  "視覚と行動のend-to-end学習により経路追従行動をオンラインで模倣する手法の提案-“経路追従行動の修正のためにデータセットを動的に追加する手法の検討''.
+\newblock 計測自動制御学会 SI 部門講演会 SICE-SI2021 予稿集,
+  pp.1066-1070(2021).
+
+\bibitem{navigation}
+ros-planning, navigation.
+\newblock \\\url{https://github.com/ros-planning/navigation}.
+\newblock \\最終閲覧日 \today.
+
+\bibitem{gazebo}
+gazebo.
+\newblock \\\url{http://gazebosim.org/.}
+\newblock \\最終閲覧日 \today \\.
+
+\bibitem{willow}
+Koenig, Nathan, and Andrew Howard.
+\newblock "design and use paradigms for gazebo, an open-source multi-robot
+  simulator.".
+\newblock 2004 IEEE/RSJ International Conference on Intelligent Robots and
+  Systems (IROS)(IEEE Cat. No. 04CH37566). Vol. 3. IEEE, pp.2149-2154(2004).
+\newblock \\最終閲覧日 \today.
+
+\bibitem{turtlebot3}
+Turtlebot3 ― robotis emanual.robotis.
+\newblock \\\url{https://emanual.robotis.com/docs/}.
+\newblock \\最終閲覧日 \today.
+
+\end{thebibliography}
